@@ -1,8 +1,1 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+The Expense Tracker App is a robust MERN (MongoDB, Express.js, React, Node.js) stack application designed to help users efficiently manage their finances. With a user-friendly interface, the app allows users to quickly sign up and start tracking their income and expenses within minutes. Key features include the ability to easily add transactions, categorize them, and view insightful reports and graphs to analyze spending patterns. The frontend is built with React, utilizing libraries like Redux for state management, React Query for data fetching, and Chart.js for dynamic visualizations. TailwindCSS ensures a sleek and responsive design, while Vite powers a fast development environment. This comprehensive tool is perfect for anyone looking to gain better control over their financial health.
